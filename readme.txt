@@ -1,2 +1,3 @@
 It is a test.
 Another line.
+Git is a distributed version control system.
